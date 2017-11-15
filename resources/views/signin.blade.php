@@ -15,7 +15,8 @@
     </head>
     <body>
       <div class="row">
-        <div class="col-md-7">
+        <br />
+        <div class="col-md-7 col-sm-offset-1">
           <form>
             <div class="form-group">
               <label for="username">Username</label>
